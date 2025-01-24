@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Social Media Links Copier",
+    "description": "Quickly copy your social media profile links to the clipboard.",
+    "version": "1.0",
+    "icons": {
+      "48": "icon.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "48": "icon.png"
+      }
+    },
+    "permissions": ["clipboardWrite"]
+  }
+  
